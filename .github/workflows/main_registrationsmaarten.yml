@@ -40,4 +40,4 @@ jobs:
           app-name: 'registrationsmaarten'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20BFD99295EE43098F1F74592336D25E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92A1737475AD4863BA47A3384BC44FC6 }}
